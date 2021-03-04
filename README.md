@@ -4,7 +4,7 @@ Analysis of DE&I (diversity, equity and inclusion) on Fortune companies.
 
 ## Business Objective
 
-This project is designed to evaluate DE&I on Fortune companies by utilizing NLP and public data. In US, all employers that have at least 100 employees are required EEO reports annually with the EEOC (Equal Employment Opportunity Commission). EEO reports are important documents for EEOC to keep track of the composition of employees for each company in terms of gender, race, age and so on. However, most of the EEOreports do not go public, which makes it hard for company manangements to evaluate their DE&I performance in contrast to other companies. On the other hand, job seekers also have difficulties to review the DE&I performance of candidate companies before applying the job. Here, I make an app to evaluate DE&I performance of 661 fortune companies based on the review comments from major job searching platforms.
+This project is designed to evaluate DE&I on Fortune companies by utilizing NLP and public data. In US, all employers that have at least 100 employees are required EEO reports annually with the EEOC (Equal Employment Opportunity Commission). EEO reports are important documents for EEOC to keep track of the composition of employees for each company in terms of gender, race, age and so on. However, most of the EEO reports do not go public, which makes it hard for company manangements to evaluate their DE&I performance in contrast to other companies. On the other hand, job seekers also have difficulties to review the DE&I performance of candidate companies before applying the job. Here, I make an app to evaluate DE&I performance of 661 fortune companies based on the review comments from major job searching platforms.
 
 ## Data Collection, Feature Engineering and Data Analysis
 
@@ -25,10 +25,10 @@ In addition, the number of employees in each company is also considered as a fea
 
 | company | pros | cons | review title | advice to management |
 | :---         |     :---:      |     :---:     |     :---:     |        ---: |
-| X | good diversity | bad diversity |good equity     | None|
-| X | good diversity | None          |excellent equity| bad equity      |
-| Y | good inclusion | bad diversity |None            | excellent equity|
-| Y | None           | bad inclusion |bad equity      | good equity     |
+| X | good diversity | bad diversity |some words about DE&I | None|
+| X | good diversity | None          |some words about DE&I | some words about DE&I |
+| Y | good inclusion | bad diversity |None            | some words about DE&I |
+| Y | None           | bad inclusion |some words about DE&I | some words about DE&I|
 
 2. For Pros part and Cons part, I count how many comments are in each part. The count number generated two features, postive score and negative score, each comment is counted as 1.
 
@@ -59,6 +59,12 @@ In addition, the number of employees in each company is also considered as a fea
 | Y | -0.10 |
 
 6. Combine with employee number, we can use K-Means to do clusters analysis.
+
+| company | ratio | employee number |
+| :---    |  :---: |	---: |
+
+| X | 0.18 | 10000 |
+| Y | -0.10 | 1000 |
 
 
 ### Data Analysis
