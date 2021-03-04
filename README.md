@@ -49,7 +49,7 @@ In addition, the number of employees in each company is also considered as a fea
 | company | positive score | negative score |
 | :---:         |     :---:     |        :---: |
 | X | 3.2 | 1.8 |
-| Y | 2.2 | 3 |
+| Y | 2.2 | 3.0 |
 
 5. Use a customized formular, ratio = log((positive score + 1)/(negative score + 1))
 
