@@ -62,7 +62,6 @@ In addition, the number of employees in each company is also considered as a fea
 
 | company | ratio | employee number |
 | :---:    |  :---: |	:---: |
-
 | X | 0.18 | 10000 |
 | Y | -0.10 | 1000 |
 
