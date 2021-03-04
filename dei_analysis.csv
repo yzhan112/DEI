@@ -1,0 +1,661 @@
+relative num of employees,company,pos/neg log ratio,desc
+1.574058444352848,3M,-1.0340559895947343,Large Company with Bad DE&I
+0.08638241195755063,A.O. Smith,-0.9340092823678356,Medium Company with Bad DE&I
+-0.7035513738792655,AAR,-1.264588014333374,Medium Company with Bad DE&I
+1.8758748484333767,ABM Industries,-1.0986122886681098,Large Company with Bad DE&I
+0.20491286473998796,ADT,-0.6931471805599453,Medium Company with Bad DE&I
+0.3499259771186188,AGCO,0.206526245490772,Medium Company with Good DE&I
+-0.3030887091434762,AK Steel Holding,-0.8003410146620605,Medium Company with Bad DE&I
+-1.330949280215391,AMC Networks,0.1012578320742269,Small Company with Good DE&I
+-1.1513910526978748,AMN Healthcare Services,-0.8313879376210418,Medium Company with Bad DE&I
+-0.09159815542199604,Aaron's,-2.623152951406144,Medium Company with Bad DE&I
+0.6380304321328751,AbbVie,-1.3862943611198906,Medium Company with Bad DE&I
+1.659866233864845,Abbott Laboratories,-0.1249964901746851,Large Company with Bad DE&I
+0.7755588136461263,Acadia Healthcare,-1.3862943611198906,Medium Company with Bad DE&I
+-0.3117759597619524,Activision Blizzard,-0.8223451190316272,Medium Company with Bad DE&I
+-0.09826676511146258,Acuity Brands,-1.709590892383939,Medium Company with Bad DE&I
+0.4116312733494226,Adobe,0.1257218103996953,Medium Company with Good DE&I
+1.0953336593963476,Advance Auto Parts,-0.7607838292757566,Medium Company with Bad DE&I
+-0.13948415123271482,Advanced Micro Devices (AMD),-0.6931471805599453,Medium Company with Bad DE&I
+-0.9810707932063485,Affiliated Managers Group,-1.0986122886681098,Medium Company with Bad DE&I
+0.1478311560306028,Agilent Technologies,-1.561305485272278,Medium Company with Bad DE&I
+0.20812070475173644,Air Products & Chemicals,-0.6931471805599453,Medium Company with Bad DE&I
+-0.45229589593458364,Akamai Technologies,-0.6872366999025874,Medium Company with Bad DE&I
+0.4631946435129397,Alaska Air Group,-1.9087421847136687,Medium Company with Bad DE&I
+2.39466003898535,Albertsons,-1.0986122886681098,Large Company with Bad DE&I
+0.014040740435136818,Alcoa,-1.6094379124341005,Medium Company with Bad DE&I
+-1.1905721847568265,Alexion Pharmaceuticals,-0.6931471805599453,Small Company with Bad DE&I
+0.05546190288985123,Align Technology,-0.9288695140810151,Medium Company with Bad DE&I
+-0.41410118966232656,Allegheny Technologies,-0.916290731874155,Medium Company with Bad DE&I
+-0.37536777107017555,Alliance Data Systems,-1.3862943611198906,Medium Company with Bad DE&I
+-1.04371779211202,Allison Transmission Holdings,-1.252762968495368,Medium Company with Bad DE&I
+-0.3566794204925998,Ally Financial,-0.2216446751904738,Medium Company with Bad DE&I
+1.7445983682015125,Alphabet,-0.6931471805599453,Large Company with Bad DE&I
+-0.190405619175086,Altice USA,-0.934879096685508,Medium Company with Bad DE&I
+-0.49766346083513313,Altria Group,-0.6931471805599453,Medium Company with Bad DE&I
+3.274448818304807,Amazon,0.025472795973031,Large Company with Good DE&I
+0.3851405672597528,Amerco,0.6931471805599453,Medium Company with Good DE&I
+-0.30110385653324473,Ameren,-0.5142016866287149,Medium Company with Bad DE&I
+0.5533666352827172,American Eagle Outfitters,-1.851434620832428,Medium Company with Bad DE&I
+0.20067727668579644,American Electric Power,-1.3010712487894869,Medium Company with Bad DE&I
+-2.4948825738162745,American Equity Investment Life Holding,0.6931471805599453,Small Company with Good DE&I
+-0.8618059900362299,American National Group,-1.252762968495368,Medium Company with Bad DE&I
+-0.7319221735829284,American Tower,-1.0986122886681098,Medium Company with Bad DE&I
+-0.06546372661547128,Ameriprise Financial,-0.6931471805599453,Medium Company with Bad DE&I
+0.37032792928777547,AmerisourceBergen,-1.6094379124341005,Medium Company with Bad DE&I
+0.2320018182498828,Ametek,0.0,Medium Company with Bad DE&I
+0.4383761126999807,Amgen,-0.1738773100112916,Medium Company with Bad DE&I
+-0.9844932131482907,Amica Mutual Insurance,-1.3196812929594244,Medium Company with Bad DE&I
+0.6286004161325016,Amkor Technology,-1.0986122886681098,Medium Company with Bad DE&I
+1.3635413888257066,Amphenol,-1.0986122886681098,Large Company with Bad DE&I
+0.15274592887943156,Analog Devices,-0.2484613592984997,Medium Company with Bad DE&I
+-1.4313601521653125,Andersons,0.0,Small Company with Bad DE&I
+-0.2944943720772578,Anixter International,-1.622523151982756,Medium Company with Bad DE&I
+-2.5798401242269313,Antero Resources,-0.6931471805599453,Small Company with Bad DE&I
+1.3257458511221136,Anthem,1.2973811768406645,Large Company with Good DE&I
+-1.169725990472266,Apache,-1.3862943611198906,Small Company with Bad DE&I
+-1.812704921672163,Apollo Global Management,0.2876820724517808,Small Company with Good DE&I
+1.8584684742190745,Apple,-1.0986122886681098,Large Company with Bad DE&I
+-0.5726017186256019,Applied Industrial Technologies,-0.3553187211675922,Medium Company with Bad DE&I
+0.3888014522057926,Applied Materials,-1.1338250444238542,Medium Company with Bad DE&I
+0.025602995393446997,AptarGroup,-0.183402140414199,Medium Company with Bad DE&I
+2.286584902075757,Aramark,-0.551065048625489,Large Company with Bad DE&I
+-0.03394741834765958,ArcBest,-0.7424848138884045,Medium Company with Bad DE&I
+0.8300955352584929,Archer Daniels Midland,-1.4211787629733923,Medium Company with Bad DE&I
+-1.425750615557546,Arista Networks,-0.4054651081081644,Small Company with Bad DE&I
+0.2835850553248984,Arrow Electronics,-1.3359815472463017,Medium Company with Bad DE&I
+-0.37536777107017555,Asbury Automotive Group,-0.6931471805599453,Medium Company with Bad DE&I
+-0.8514816999750545,Ashland Global Holdings,-2.13934825880553,Medium Company with Bad DE&I
+-1.0686415967403093,Atlas Air Worldwide Holdings,-0.4054651081081644,Medium Company with Bad DE&I
+-0.8385918547783242,Atmos Energy,-1.0109399657354403,Medium Company with Bad DE&I
+0.4915236012823255,AutoNation,-0.3414345284510279,Medium Company with Bad DE&I
+1.3832775070828054,AutoZone,-1.6094379124341005,Large Company with Bad DE&I
+-0.23677787968552347,Autodesk,-0.7103224053601259,Medium Company with Bad DE&I
+1.2208089406267624,Autoliv,0.6931471805599453,Large Company with Good DE&I
+1.1677757323502407,Automatic Data Processing,0.6931471805599453,Large Company with Good DE&I
+-1.1802101732715435,AvalonBay Communities,-0.3584908774627112,Small Company with Bad DE&I
+-0.09826676511146258,Avantor,0.0,Medium Company with Bad DE&I
+-0.43419130746113443,Avaya Holdings,-2.079441541679836,Medium Company with Bad DE&I
+0.5105813211405007,Avis Budget Group,0.0,Medium Company with Bad DE&I
+0.1073917879037709,Avnet,-0.9696039847711716,Medium Company with Bad DE&I
+-0.7702446155919959,BGC Partners,-2.223769132558332,Medium Company with Bad DE&I
+0.5602123192029123,BJ's Wholesale Club,-0.6931471805599453,Medium Company with Bad DE&I
+-0.22886094021962733,BMC Stock Holdings,-1.6183976538055722,Medium Company with Bad DE&I
+-0.7847460949279594,BOK Financial,-1.4143714836917811,Medium Company with Bad DE&I
+2.194507824008535,Bank of America,0.4054651081081644,Large Company with Good DE&I
+1.0223765003735974,Bank of New York Mellon,-1.3792525463308445,Medium Company with Bad DE&I
+-0.07191808144277008,Barnes & Noble Education,-0.6931471805599453,Medium Company with Bad DE&I
+1.0485109291801222,Baxter International,-1.0589701533956664,Medium Company with Bad DE&I
+-1.9451973956419029,Beazer Homes USA,-0.9982128086226068,Small Company with Bad DE&I
+1.2213664436993643,Bed Bath & Beyond,-0.6931471805599453,Large Company with Bad DE&I
+-0.5313843325043497,Belden,-1.8565948213069632,Medium Company with Bad DE&I
+-0.19795086574578682,Benchmark Electronics,-1.010876174364023,Medium Company with Bad DE&I
+2.7022131608393067,Berkshire Hathaway,0.6931471805599453,Large Company with Good DE&I
+1.0157078906841308,Berry Global Group,-1.260107360869506,Medium Company with Bad DE&I
+0.39788135509486916,Big Lots,-0.8544791559062674,Medium Company with Bad DE&I
+-0.48673046421422317,Biogen,-1.6094379124341005,Medium Company with Bad DE&I
+0.14288613823547017,BlackRock,-0.6931471805599453,Medium Company with Bad DE&I
+-1.4654982932566625,BlueLinx Holdings,-0.8240306534488576,Small Company with Bad DE&I
+1.9886813064056905,Boeing,-0.3926476043975497,Large Company with Bad DE&I
+-0.6539159364039362,Boise Cascade,0.6931471805599453,Medium Company with Good DE&I
+0.5261246076022862,Booz Allen Hamilton Holding,0.4054651081081644,Medium Company with Good DE&I
+-2.3155727044697345,Boston Properties,-0.4054651081081644,Small Company with Bad DE&I
+0.4687028384325594,Boyd Gaming,-1.1957979761379265,Medium Company with Bad DE&I
+0.7338660871644899,Bright Horizons Family Solutions,-0.7161646652807836,Medium Company with Bad DE&I
+0.38799748730051303,BrightView Holdings,-1.0986122886681098,Medium Company with Bad DE&I
+-1.8658862437677357,Brighthouse Financial,0.6931471805599453,Small Company with Good DE&I
+1.1416842399957547,Brinker International,-1.0770465107535492,Medium Company with Bad DE&I
+0.27099634581453225,Broadcom,0.0,Medium Company with Bad DE&I
+-0.16818587569200413,Broadridge Financial Solutions,-0.6931471805599453,Medium Company with Bad DE&I
+-0.5054060396492195,Bruker,-1.6094379124341005,Medium Company with Bad DE&I
+-0.04465013279797193,Brunswick,-1.566017377597263,Medium Company with Bad DE&I
+0.1227960204366623,Builders FirstSource,-1.4977686495238487,Medium Company with Bad DE&I
+0.10359832604749344,C.H. Robinson Worldwide,-1.7319917718136728,Medium Company with Bad DE&I
+1.605498257077919,CBRE Group,-0.5793424181194561,Large Company with Bad DE&I
+-0.3294373928121687,CDK Global,-1.8690136772631116,Medium Company with Bad DE&I
+-1.0637281898735478,CIT Group,-1.199422467227118,Medium Company with Bad DE&I
+0.34789159110007856,CSX,-1.3058432367222637,Medium Company with Bad DE&I
+-1.0657345900565065,CUNA Mutual Group,-1.0343941313415448,Medium Company with Bad DE&I
+-0.8864247207099655,Cabot,0.6931471805599453,Medium Company with Good DE&I
+-0.4162866753496527,Cadence Design Systems,-1.7439698053922066,Medium Company with Bad DE&I
+0.1073917879037709,Caesars Entertainment,-1.330616468414516,Medium Company with Bad DE&I
+1.2468785183848383,Caesars Holdings,-1.2647762336847612,Large Company with Bad DE&I
+-0.13948415123271482,Caleres,-1.3662957146132009,Medium Company with Bad DE&I
+-1.9157355796554019,California Resources,-0.2005262614488009,Small Company with Bad DE&I
+-1.7692287488048521,Calumet Specialty Products Partners,-0.9330691831129728,Small Company with Bad DE&I
+0.27099634581453225,Campbell Soup,-0.189990891098861,Medium Company with Bad DE&I
+1.078480436477925,Capital One Financial,0.0,Medium Company with Bad DE&I
+1.0404348525999725,Cardinal Health,-0.2848405391171243,Medium Company with Bad DE&I
+-0.7858482681174226,Carpenter Technology,-1.4523629610895954,Medium Company with Bad DE&I
+-0.49502594362325736,Carvana,-1.661152348120779,Medium Company with Bad DE&I
+-0.07842469882127598,Catalent,-1.0213735083273077,Medium Company with Bad DE&I
+-2.251578752671219,Cboe Global Markets,0.0,Small Company with Bad DE&I
+1.148141457171619,Centene,-0.6931471805599453,Medium Company with Bad DE&I
+0.04050211786402991,CenterPoint Energy,-0.1552045683060169,Medium Company with Bad DE&I
+-0.7179010919149307,Central Garden & Pet,-1.868211121388386,Medium Company with Bad DE&I
+-1.147922074143253,Centric Brands,-1.3862943611198906,Medium Company with Bad DE&I
+0.5651839490769399,Cerner,-0.6931471805599453,Medium Company with Bad DE&I
+0.18633254896437582,Charles River Laboratories International,-1.0986122886681098,Medium Company with Bad DE&I
+0.9858639302744509,Cheesecake Factory,-0.6931471805599453,Medium Company with Bad DE&I
+-0.5313843325043497,Chemours,-0.6931471805599453,Medium Company with Bad DE&I
+-1.7533160930624672,Cheniere Energy,-1.3862943611198906,Small Company with Bad DE&I
+-1.425750615557546,Chesapeake Energy,-0.6931471805599453,Small Company with Bad DE&I
+1.019049113193621,Chevron,-0.6223491092512299,Medium Company with Bad DE&I
+-0.17228718972870613,Chico's FAS,-1.2512617891088396,Medium Company with Bad DE&I
+1.455770729107071,Chipotle Mexican Grill,-1.5909171323587097,Large Company with Bad DE&I
+1.3602770802508484,Cigna,-1.7064738749456945,Large Company with Bad DE&I
+0.4105299424729683,Cinemark Holdings,-0.6931471805599453,Medium Company with Bad DE&I
+0.22741599678116006,Citizens Financial Group,-0.4054651081081644,Medium Company with Bad DE&I
+-0.3848775016538001,Citrix Systems,-1.0986122886681098,Medium Company with Bad DE&I
+0.04824006573908708,Clean Harbors,-1.466452748949493,Medium Company with Bad DE&I
+-0.6687596690012739,Clear Channel Outdoor Holdings,-2.128457870748249,Medium Company with Bad DE&I
+-0.3474957450385437,Clorox,-1.897619859927532,Medium Company with Bad DE&I
+-2.831342646246279,Colony Capital,-0.6931471805599453,Small Company with Bad DE&I
+-0.3384158421494671,Columbia Sportswear,-0.6931471805599453,Medium Company with Bad DE&I
+2.1212681988544633,Comcast,0.6931471805599453,Large Company with Good DE&I
+-0.45396217513361076,Comerica,0.3558520693754338,Medium Company with Good DE&I
+-0.09826676511146258,Comfort Systems USA,-1.0986122886681098,Medium Company with Bad DE&I
+0.6380304321328751,CommScope Holding,0.0,Medium Company with Bad DE&I
+-0.1307908371558413,Commercial Metals,-1.39740738212346,Medium Company with Bad DE&I
+1.3359248270644815,Community Health Systems,-0.6931471805599453,Large Company with Bad DE&I
+0.22754993508562804,Conagra Brands,-1.6094379124341005,Medium Company with Bad DE&I
+1.2836893599808417,Conduent,-2.012629326546895,Large Company with Bad DE&I
+-0.21325728769419913,ConocoPhillips,-1.309521302313977,Medium Company with Bad DE&I
+0.07512859682868582,Consolidated Edison,-1.4766605211933626,Medium Company with Bad DE&I
+-0.3548342696111595,Cooper Tire & Rubber,-0.6931471805599453,Medium Company with Bad DE&I
+-0.4946968618402966,Copart,-2.094379414044043,Medium Company with Bad DE&I
+0.3514196955905362,Corteva,-0.3282263277673622,Medium Company with Bad DE&I
+0.27099634581453225,Coty,-0.6955901622110853,Medium Company with Bad DE&I
+-1.0140831201149814,Country Financial,-1.203972804325936,Medium Company with Bad DE&I
+1.3526083922047967,Cracker Barrel Old Country Store,-1.4775737007194147,Large Company with Bad DE&I
+1.2163610204124464,Cummins,0.1280413498808841,Large Company with Good DE&I
+-0.6727191235873828,Cypress Semiconductor,-0.4630336900891786,Medium Company with Bad DE&I
+-1.4434120486077622,DCP Midstream,-1.791759469228055,Small Company with Bad DE&I
+-0.190405619175086,DTE Energy,-0.6931471805599453,Medium Company with Bad DE&I
+1.195017760030672,Danaher,-0.6931471805599453,Large Company with Bad DE&I
+2.0977248270616964,Darden Restaurants,-0.6931471805599453,Large Company with Bad DE&I
+-0.23677787968552347,Darling Ingredients,-1.3862943611198906,Medium Company with Bad DE&I
+-1.0883716604021465,Deckers Outdoor,-0.6931471805599453,Medium Company with Bad DE&I
+-1.042198974327448,Delek US Holdings,-1.0986122886681098,Medium Company with Bad DE&I
+2.007902677545016,Dell Technologies,-0.9998897557504688,Large Company with Bad DE&I
+-0.6094427699193771,Deluxe,-1.2256951563982517,Medium Company with Bad DE&I
+0.09168647646799272,Dentsply Sirona,-0.916290731874155,Medium Company with Bad DE&I
+0.5954020485361812,Dick's Sporting Goods,0.6931471805599453,Medium Company with Good DE&I
+-1.7428800651361596,Digital Realty Trust,-0.4054651081081644,Small Company with Bad DE&I
+-0.3117759597619524,Discovery,0.6931471805599453,Medium Company with Good DE&I
+1.8929121549622783,Dollar General,-0.4054651081081644,Large Company with Bad DE&I
+1.7848081264244584,Dollar Tree,-0.6931471805599453,Large Company with Bad DE&I
+0.2752145332214929,Dominion Energy,-1.463454951576425,Medium Company with Bad DE&I
+-0.027789818440627,Domino's Pizza,-0.934879096685508,Medium Company with Bad DE&I
+-0.24477359596201081,Domtar,-1.9298533545025167,Medium Company with Bad DE&I
+0.03132232811983284,Donaldson,-0.6891625614206622,Medium Company with Bad DE&I
+0.7956210643069999,Dow,0.0,Medium Company with Bad DE&I
+0.7619001926377833,DuPont,-0.1380212978973747,Medium Company with Bad DE&I
+0.6050320594810573,Duke Energy,-0.916290731874155,Medium Company with Bad DE&I
+0.8008655980734882,EPAM Systems,-0.5419723527628274,Medium Company with Bad DE&I
+-2.444923936010984,EQT,-1.6341305250244718,Small Company with Bad DE&I
+-1.3463094436001768,Echo Global Logistics,-1.4200993657322516,Small Company with Bad DE&I
+-1.425750615557546,EchoStar,-1.8287822558890725,Small Company with Bad DE&I
+1.0517187691918706,Ecolab,-0.6931471805599453,Medium Company with Bad DE&I
+-0.6552540930092593,Edgewell Personal Care,-0.4054651081081644,Medium Company with Bad DE&I
+-0.03785107408845944,Edison International,0.0,Medium Company with Bad DE&I
+-0.644610720776345,Elanco Animal Health,-0.6615377776608066,Medium Company with Bad DE&I
+-0.26924948371371094,Electronic Arts,0.8407910224725076,Medium Company with Good DE&I
+0.7296948208527194,Eli Lilly,-1.9761067506335372,Medium Company with Bad DE&I
+-1.850921884764167,EnLink Midstream,-0.9703817462320256,Small Company with Bad DE&I
+-1.652276358326336,Enable Midstream Partners,-0.6931471805599453,Small Company with Bad DE&I
+0.7775877292147244,Encompass Health,-0.5732368838873878,Medium Company with Bad DE&I
+-0.16818587569200413,EnerSys,-2.098594448149222,Medium Company with Bad DE&I
+-0.4759442236627184,Energizer Holdings,-1.3010712487894869,Medium Company with Bad DE&I
+0.47528945609544576,Ensign Group,-2.2865166848149814,Medium Company with Bad DE&I
+0.00437502366140931,Entergy,-1.6094379124341005,Medium Company with Bad DE&I
+-0.49766346083513313,Enterprise Products Partners,-1.0986122886681098,Medium Company with Bad DE&I
+-0.3869848318432525,Equinix,0.4054651081081644,Medium Company with Good DE&I
+-0.23677787968552347,Equitable Holdings,-1.0986122886681098,Medium Company with Bad DE&I
+-1.2969052177572131,Equity Residential,-0.3382551584154344,Small Company with Bad DE&I
+-0.6855499130724895,Erie Insurance Group,-0.6931471805599453,Medium Company with Bad DE&I
+1.0157078906841308,Estée Lauder,-0.1052494107190974,Medium Company with Bad DE&I
+-0.45479661223434165,Euronet Worldwide,-1.0986122886681098,Medium Company with Bad DE&I
+-1.5792755072253974,Evercore,0.0,Small Company with Bad DE&I
+-0.8657990728308259,Evergy,-0.2501294163991967,Medium Company with Bad DE&I
+-0.4009164414818197,Eversource Energy,-0.508910791561219,Medium Company with Bad DE&I
+0.7075990235853274,Exelon,-0.6042339962807193,Medium Company with Bad DE&I
+0.5042788350614037,Expedia Group,-1.3862943611198906,Medium Company with Bad DE&I
+0.22754993508562804,Expeditors Intl. of Washington,-2.19722457733622,Medium Company with Bad DE&I
+-0.31527732850780626,Express,-1.3862943611198906,Medium Company with Bad DE&I
+1.3732554973225062,Exxon Mobil,-1.0986122886681098,Large Company with Bad DE&I
+-0.7511567144024937,F5 Networks,-0.9888407466762976,Medium Company with Bad DE&I
+-0.6033933346550927,FMC,-1.2261758102271314,Medium Company with Bad DE&I
+-0.4759442236627184,Fannie Mae,-0.7307078627778285,Medium Company with Bad DE&I
+-0.16964822888138859,Farmers Insurance Exchange,-0.0773131031026702,Medium Company with Bad DE&I
+0.3868998736128542,Fastenal,-1.5787415634315027,Medium Company with Bad DE&I
+-1.3155725604301642,Federated Mutual Insurance,-0.6495610098970239,Small Company with Bad DE&I
+0.44125553220821057,Fidelity National Financial,-0.3553187211675922,Medium Company with Bad DE&I
+1.125098649450129,Fidelity National Information Services,-0.1738773100112916,Medium Company with Bad DE&I
+0.24573526005212698,First American Financial,-1.0986122886681098,Medium Company with Bad DE&I
+-0.8027257783152892,First Horizon National,-0.251314428280906,Medium Company with Bad DE&I
+-0.8325575621728417,First Republic Bank,-0.6183843208510809,Medium Company with Bad DE&I
+-0.5786663727392513,First Solar,-0.819935643631392,Medium Company with Bad DE&I
+0.9457887801035894,Fiserv,0.6931471805599453,Medium Company with Good DE&I
+-0.3566794204925998,FleetCor Technologies,-1.3556031679657006,Medium Company with Bad DE&I
+-0.26924948371371094,Flowers Foods,-1.203972804325936,Medium Company with Bad DE&I
+2.1212681988544633,Ford Motor,-0.6931471805599453,Large Company with Bad DE&I
+-0.5220258750491458,Fortinet,-0.6942708886064874,Medium Company with Bad DE&I
+0.4915236012823255,Fortive,-1.6297698114060184,Medium Company with Bad DE&I
+-0.22886094021962733,Fossil Group,-2.1497368978984923,Medium Company with Bad DE&I
+-1.0883716604021465,Foundation Building Materials,-0.6931471805599453,Medium Company with Bad DE&I
+-0.27782778709508243,Franklin Resources,-0.8223451190316272,Medium Company with Bad DE&I
+0.3888014522057926,GEO Group,-1.794023570881122,Medium Company with Bad DE&I
+-0.6745004044132016,GMS,0.0,Medium Company with Bad DE&I
+0.6380304321328751,GameStop,-1.3371233171134411,Medium Company with Bad DE&I
+1.8101192852804595,Gap,-0.5912251908345614,Large Company with Bad DE&I
+0.16846641366411563,Gartner,-2.3475824589247813,Medium Company with Bad DE&I
+-0.7177563188570123,Generac Holdings,-1.7857184548369005,Medium Company with Bad DE&I
+1.628470075545791,General Dynamics,-1.093744157271249,Large Company with Bad DE&I
+2.1823276512659024,General Electric,-0.6931471805599453,Large Company with Bad DE&I
+2.0030177819193615,General Motors,0.0,Large Company with Bad DE&I
+0.016946938379749053,Genesco,-0.6854929616230857,Medium Company with Bad DE&I
+-1.4699155074349164,Genesis Energy,-0.6931471805599453,Small Company with Bad DE&I
+1.125098649450129,Genuine Parts,-1.0524326718714192,Medium Company with Bad DE&I
+-1.1858927372383636,Genworth Financial,-0.5108256237659907,Small Company with Bad DE&I
+-0.11177234110347718,Gilead Sciences,-0.3832178674262496,Medium Company with Bad DE&I
+0.45872056278633416,Global Payments,0.6931471805599453,Medium Company with Good DE&I
+-1.1613857444297588,Globe Life,0.0,Medium Company with Bad DE&I
+-0.5286339720698853,GoDaddy,-0.1507494530186405,Medium Company with Bad DE&I
+1.2342237236854237,Goodyear Tire & Rubber,-1.5766514165622416,Large Company with Bad DE&I
+0.22754993508562804,Graphic Packaging Holding,-1.3862943611198906,Medium Company with Bad DE&I
+-0.4797029608806514,Gray Television,-1.175605032307946,Medium Company with Bad DE&I
+-0.3294373928121687,Graybar Electric,-1.3140357169671817,Medium Company with Bad DE&I
+-2.3103034209602638,Grocery Outlet Holding,0.0,Small Company with Bad DE&I
+0.09674565071863932,Group 1 Automotive,-0.6058080794999379,Medium Company with Bad DE&I
+-0.32658534773906234,Guardian Life Ins. Co. of America,-1.0784095813505905,Medium Company with Bad DE&I
+0.1227960204366623,Guess,-2.729720364512501,Medium Company with Bad DE&I
+-0.6072950493501388,H.B. Fuller,-0.4166903763487191,Medium Company with Bad DE&I
+-0.13246609041541285,HD Supply Holdings,-1.152311021002044,Medium Company with Bad DE&I
+-0.6687596690012739,HEICO,-1.077927697475277,Medium Company with Bad DE&I
+-0.38010856863110365,HNI,-1.0962650917108716,Medium Company with Bad DE&I
+-0.7338398095779686,Hain Celestial Group,-0.6931471805599453,Medium Company with Bad DE&I
+1.125098649450129,Halliburton,0.6931471805599453,Medium Company with Good DE&I
+0.29186928184943106,Hartford Financial Services Group,-0.4821219099694595,Medium Company with Bad DE&I
+-0.7106942018508893,Hasbro,-1.2386505192073285,Medium Company with Bad DE&I
+-0.48272266111421125,Hawaiian Holdings,-1.0986122886681098,Medium Company with Bad DE&I
+0.27099634581453225,Henry Schein,0.0,Medium Company with Bad DE&I
+-0.7858482681174226,Herc Holdings,-0.6931471805599453,Medium Company with Bad DE&I
+-0.4240834653085518,Herman Miller,-1.3546899914019992,Medium Company with Bad DE&I
+0.09852983071741532,Hershey,-0.5716290531248158,Medium Company with Bad DE&I
+0.827983673712329,Hertz Global Holdings,-1.4298087279508498,Medium Company with Bad DE&I
+1.2161653714590472,Hewlett Packard Enterprise,0.542440563135242,Large Company with Good DE&I
+-0.9810707932063485,Hexion,-1.3862943611198906,Medium Company with Bad DE&I
+2.0459482614229687,Hilton Worldwide Holdings,-0.1738773100112916,Large Company with Bad DE&I
+-0.5936591105174874,Hologic,-0.6931471805599453,Medium Company with Bad DE&I
+2.750409519645127,Home Depot,1.0466521052928557,Large Company with Good DE&I
+1.703707807058461,Honeywell International,-0.608928588655547,Large Company with Bad DE&I
+0.26249295582053894,Hormel Foods,-2.074508275725813,Medium Company with Bad DE&I
+-3.495630841339873,Host Hotels & Resorts,-1.0420114376448308,Small Company with Bad DE&I
+-1.5929244613703124,Hovnanian Enterprises,-0.6931471805599453,Small Company with Bad DE&I
+0.9026466916111545,Howmet Aerospace,-0.6931471805599453,Medium Company with Bad DE&I
+-0.8017609238598076,Hub Group,-1.2068937327535998,Medium Company with Bad DE&I
+0.26249295582053894,Hubbell,-0.960269339046365,Medium Company with Bad DE&I
+0.9815085653801806,Humana,0.0,Medium Company with Bad DE&I
+0.11584933667179677,Huntington Bancshares,0.0,Medium Company with Bad DE&I
+-0.24477359596201081,Huntsman,-1.5256431746908348,Medium Company with Bad DE&I
+-0.3117759597619524,IDEXX Laboratories,-2.80363307099594,Medium Company with Bad DE&I
+1.2836893599808417,IQVIA Holdings,0.6931471805599453,Large Company with Good DE&I
+-0.20556763230726052,ITT,-1.0962650917108716,Medium Company with Bad DE&I
+0.9638471323299643,Illinois Tool Works,-0.8223451190316272,Medium Company with Bad DE&I
+-1.793152549378671,Incyte,-1.1648368875773378,Small Company with Bad DE&I
+0.1993837407066704,Infor,-0.9524705475334754,Medium Company with Bad DE&I
+-0.5786663727392513,Ingersoll Rand,0.0631223402552039,Medium Company with Good DE&I
+0.2551936437820696,Ingles Markets,-2.5204599575142743,Medium Company with Bad DE&I
+-0.16818587569200413,Ingredion,-2.079441541679836,Medium Company with Bad DE&I
+-0.1493422014348625,Insight Enterprises,-1.41164529355556,Medium Company with Bad DE&I
+-1.0883716604021465,Insperity,-1.758926312132815,Medium Company with Bad DE&I
+1.6879089220731394,Intel,1.0986122886681098,Large Company with Good DE&I
+-1.6960573349199348,Interactive Brokers Group,-1.9359463895405529,Small Company with Bad DE&I
+-0.6567286436630401,Intercontinental Exchange,-0.6825238089228143,Medium Company with Bad DE&I
+1.0644235849225072,International Paper,-1.6094379124341005,Medium Company with Bad DE&I
+-0.4948065407943729,Intuitive Surgical,0.2231435513142097,Medium Company with Good DE&I
+0.4915236012823255,Iron Mountain,-1.9186319347711955,Medium Company with Bad DE&I
+0.6123386157615534,J.B. Hunt Transport Services,-1.2647762336847612,Medium Company with Bad DE&I
+-0.2944943720772578,J.Crew Group,-1.0731394926950786,Medium Company with Bad DE&I
+-0.48673046421422317,J.M. Smucker,-1.0986122886681098,Medium Company with Bad DE&I
+2.3639265672397967,JPMorgan Chase,-1.490744462476355,Large Company with Bad DE&I
+2.1624855849757156,Jabil,-0.2582172157972116,Large Company with Bad DE&I
+1.0485109291801222,Jacobs Engineering Group,-1.3862943611198906,Medium Company with Bad DE&I
+-0.8345639623557989,Jefferies Financial Group,-1.286050915361543,Medium Company with Bad DE&I
+0.2723485764336716,JetBlue Airways,-0.6931471805599453,Medium Company with Bad DE&I
+1.0322767839932425,Jones Financial (Edward Jones),-1.2843723713945068,Medium Company with Bad DE&I
+-1.8339053140034316,KKR,-0.2806402576627346,Small Company with Bad DE&I
+-0.5268056143850847,Kansas City Southern,-1.0986122886681098,Medium Company with Bad DE&I
+-0.014950064553125666,Kar Auction Services,-1.3862943611198906,Medium Company with Bad DE&I
+0.6643791158015676,Kellogg,-0.3282263277673622,Medium Company with Bad DE&I
+-0.45479661223434165,Kelly Services,-0.6931471805599453,Medium Company with Bad DE&I
+-0.3384158421494671,Kemper,1.3862943611198906,Medium Company with Good DE&I
+-0.2136437088874103,Kennametal,-1.252762968495368,Medium Company with Bad DE&I
+0.1837438246830729,KeyCorp,-0.8554896550385876,Medium Company with Bad DE&I
+-2.302983994959369,Knights of Columbus,-0.5108256237659907,Small Company with Bad DE&I
+1.4211503595934367,Kohl's,-0.6931471805599453,Large Company with Bad DE&I
+2.7868769576894645,Kroger,0.6931471805599453,Large Company with Good DE&I
+1.1943478451475227,L Brands,-0.6931471805599453,Large Company with Bad DE&I
+1.0485109291801222,L3Harris Technologies,-1.0986122886681098,Medium Company with Bad DE&I
+-0.20556763230726052,LCI Industries,-0.4828787217150401,Medium Company with Bad DE&I
+0.41697434291398044,LHC Group,-0.6881371875034987,Medium Company with Bad DE&I
+1.0644235849225072,LKQ,-1.0986122886681098,Medium Company with Bad DE&I
+-0.9149608795778688,LPL Financial Holdings,-0.6931471805599453,Medium Company with Bad DE&I
+0.3122137319357845,LSC Communications,-0.6233226549931369,Medium Company with Bad DE&I
+-0.190405619175086,Lam Research,-1.6094379124341005,Medium Company with Bad DE&I
+-0.46530085142980404,Lamb Weston Holdings,-0.6931471805599453,Medium Company with Bad DE&I
+-0.4240834653085518,Land O'Lakes,-1.0629073640473332,Medium Company with Bad DE&I
+-1.8640757371307088,Landstar System,0.0,Small Company with Bad DE&I
+1.0485109291801222,Las Vegas Sands,-0.4054651081081644,Medium Company with Bad DE&I
+-1.1489116836966478,Legg Mason,-1.252762968495368,Medium Company with Bad DE&I
+0.3888014522057926,Leggett & Platt,-0.5108256237659907,Medium Company with Bad DE&I
+0.7386068847254179,Leidos Holdings,-1.0986122886681098,Medium Company with Bad DE&I
+-0.23630065734795178,Lennar,-1.4576843572065634,Medium Company with Bad DE&I
+-0.15370687395309396,Lennox International,-1.7495128492996337,Medium Company with Bad DE&I
+0.1227960204366623,Levi Strauss,0.6931471805599453,Medium Company with Good DE&I
+0.9638471323299643,Liberty Mutual Insurance Group,0.3917101428758285,Medium Company with Good DE&I
+-0.16818587569200413,Lincoln Electric Holdings,-0.8131499729546416,Medium Company with Bad DE&I
+0.043763380869377644,Lithia Motors,-1.7644396585730922,Medium Company with Bad DE&I
+0.23642917300779967,Live Nation Entertainment,-0.4086451591147953,Medium Company with Bad DE&I
+0.9179167540719575,Lumen Technologies,-0.6208885364072361,Medium Company with Bad DE&I
+-0.6988716510895316,Lyft,0.2876820724517808,Medium Company with Good DE&I
+-0.012057596707262386,MDU Resources Group,-0.6931471805599453,Medium Company with Bad DE&I
+1.3415245908812214,MGM Resorts International,0.0203172007628949,Large Company with Good DE&I
+-1.1247700644299123,MRC Global,0.6931471805599453,Medium Company with Good DE&I
+-0.5665824930590895,MSC Industrial Direct,-2.153203025241889,Medium Company with Bad DE&I
+-0.5199860867017876,MYR Group,0.0,Medium Company with Bad DE&I
+1.7718471542186551,Macy's,-0.6374602191456914,Large Company with Bad DE&I
+-1.5860710052782812,Magellan Midstream Partners,-0.5038500100295655,Small Company with Bad DE&I
+-0.3384158421494671,ManTech International,-1.5060532213265254,Medium Company with Bad DE&I
+0.5825903232912437,ManpowerGroup,-1.3862943611198906,Medium Company with Bad DE&I
+-1.5380581211041453,Marathon Oil,-1.791759469228055,Small Company with Bad DE&I
+1.2071136330967904,Marathon Petroleum,-1.791759469228055,Large Company with Bad DE&I
+0.25389861875432057,Markel,-1.0986122886681098,Medium Company with Bad DE&I
+2.050579760445127,Marriott International,0.0,Large Company with Bad DE&I
+0.3888014522057926,Marriott Vacations Worldwide,-1.5040773967762742,Medium Company with Bad DE&I
+-0.34330624315747543,Martin Marietta Materials,-1.716137531093156,Medium Company with Bad DE&I
+0.3888014522057926,Masco,-0.6931471805599453,Medium Company with Bad DE&I
+-1.542894020488462,Matson,-0.8868532962205379,Small Company with Bad DE&I
+0.45872056278633416,Mattel,-1.462959446055376,Medium Company with Bad DE&I
+-0.6824961206896905,Maxar Technologies,-1.0076752936760076,Medium Company with Bad DE&I
+-0.5164852100337668,Maxim Integrated Products,-0.3364722366212129,Medium Company with Bad DE&I
+0.6272441915813703,Maximus,-1.7134915745306785,Medium Company with Bad DE&I
+-0.07191808144277008,McCormick,-0.6931471805599453,Medium Company with Bad DE&I
+1.3188875205355801,McKesson,-1.6094379124341005,Large Company with Bad DE&I
+-0.7085446788862207,Meredith,-0.8416987498879652,Medium Company with Bad DE&I
+-1.763889441082379,Meritage Homes,-0.4054651081081644,Small Company with Bad DE&I
+1.0322767839932425,MetLife,0.6931471805599453,Medium Company with Good DE&I
+0.5825903232912437,Michaels,-0.2077009051333517,Medium Company with Bad DE&I
+0.24021728535657394,Microchip Technology,-1.3862943611198906,Medium Company with Bad DE&I
+0.8065540609279098,Micron Technology,-0.8032061324179438,Medium Company with Bad DE&I
+1.8985119187790183,Microsoft,-0.3697601834873879,Large Company with Bad DE&I
+-0.08498443203123071,Modine Manufacturing,-1.824920191001461,Medium Company with Bad DE&I
+0.21404435909361202,Molson Coors Beverage,-0.6931471805599453,Medium Company with Bad DE&I
+1.426188387731378,Mondelez International,-0.6931471805599453,Large Company with Bad DE&I
+-0.04584120016586967,Moog,-0.9808292530117262,Medium Company with Bad DE&I
+-0.059060801456710874,Mosaic,-0.4563905570711037,Medium Company with Bad DE&I
+0.18161955682762118,Motorola Solutions,-0.1599340379163253,Medium Company with Bad DE&I
+-0.32055815488999706,Mr. Cooper Group,-0.7412145764238623,Medium Company with Bad DE&I
+-0.8075675052898388,Mueller Industries,-0.5053259405801653,Medium Company with Bad DE&I
+-1.9472004615460692,Mutual of America Life Insurance,-1.8308864724865312,Small Company with Bad DE&I
+-0.6456687365391928,Mutual of Omaha Insurance,1.277009488569908,Medium Company with Good DE&I
+-0.9229565958543575,NOW,-0.6931471805599453,Medium Company with Bad DE&I
+-0.8727911800822745,NRG Energy,-1.0763494548691386,Medium Company with Bad DE&I
+-0.6964714791305116,NVR,-0.9003442600444673,Medium Company with Bad DE&I
+-0.9116373152341435,Nasdaq,-0.8471207018384117,Medium Company with Bad DE&I
+-0.3117759597619524,National General Holdings,-1.8864710047262323,Medium Company with Bad DE&I
+0.5858553299416388,Nationwide,0.6931471805599453,Medium Company with Good DE&I
+-0.6824961206896905,Navient,0.6931471805599453,Medium Company with Good DE&I
+-0.07842469882127598,Navistar International,-1.306214047444432,Medium Company with Bad DE&I
+-0.20556763230726052,NetApp,-0.6931471805599453,Medium Company with Bad DE&I
+-0.36596926795656076,Netflix,-0.3186445607580896,Medium Company with Bad DE&I
+-0.7106942018508893,Newmark Group,-1.5377700377427437,Medium Company with Bad DE&I
+0.16248620396493804,Newmont,-0.1357364596762286,Medium Company with Bad DE&I
+0.07518256162879987,Nexstar Media Group,-1.1589197732778649,Medium Company with Bad DE&I
+0.07025686368357356,NextEra Energy,-1.8158959016303984,Medium Company with Bad DE&I
+-0.3884248230101523,NiSource,-0.6931471805599453,Medium Company with Bad DE&I
+-1.4320641056538683,Noble Energy,0.0,Small Company with Bad DE&I
+-0.4675242957592228,Nordson,-0.6931471805599453,Medium Company with Bad DE&I
+1.3743276293772113,Nordstrom,-0.4054651081081644,Large Company with Bad DE&I
+0.4781378697958745,Norfolk Southern,-0.960269339046365,Medium Company with Bad DE&I
+1.520834460227761,Northrop Grumman,-0.6931471805599453,Large Company with Bad DE&I
+-0.6600899923935754,Northwestern Mutual,-0.0336604114926131,Medium Company with Bad DE&I
+-0.10499117971471773,NortonLifeLock,-0.6931471805599453,Medium Company with Bad DE&I
+0.48830290416202726,Nu Skin Enterprises,0.0,Medium Company with Bad DE&I
+0.5473921627365039,Nucor,-0.8964881045779755,Medium Company with Bad DE&I
+0.012583690433395038,Nvidia,-0.2533965944852307,Medium Company with Bad DE&I
+0.8692010598335812,ODP,-0.6931471805599453,Medium Company with Bad DE&I
+-1.3832241395093043,OGE Energy,-0.587786664902119,Small Company with Bad DE&I
+0.7572952353029937,ON Semiconductor,-1.0986122886681098,Medium Company with Bad DE&I
+0.04824006573908708,Occidental Petroleum,-0.6956168944608732,Medium Company with Bad DE&I
+-0.32055815488999706,Oceaneering International,-0.4446237094601836,Medium Company with Bad DE&I
+-2.011909873848586,Ohio National Mutual,-1.791759469228055,Small Company with Bad DE&I
+-0.3294373928121687,Old Republic International,-0.3929314831708784,Medium Company with Bad DE&I
+-0.5909347462454563,Olin,-0.3644671290740922,Medium Company with Bad DE&I
+1.3188875205355801,Omnicom Group,-0.4054651081081644,Large Company with Bad DE&I
+-0.7263428731642955,Option Care Health,-1.7397290611336709,Medium Company with Bad DE&I
+1.85258154052101,Oracle,-0.6931471805599453,Large Company with Bad DE&I
+0.1021907156634551,Oshkosh,-0.4054651081081644,Medium Company with Bad DE&I
+-1.336245119716433,Ovintiv,-0.6931471805599453,Small Company with Bad DE&I
+1.063919230375401,PNC Financial Services Group,0.0,Medium Company with Bad DE&I
+1.0089834760808758,PPG Industries,-1.6903725299300996,Medium Company with Bad DE&I
+-0.07973236852531396,PPL,-1.324312677335444,Medium Company with Bad DE&I
+0.5533666352827172,Paccar,0.6931471805599453,Medium Company with Good DE&I
+-1.019122464704754,Pacific Life,-0.6187820986046386,Medium Company with Bad DE&I
+-0.5297788117788431,Palo Alto Networks,-1.3016023384208375,Medium Company with Bad DE&I
+0.12680382353667566,Parsons,-1.4677410842650618,Medium Company with Bad DE&I
+0.045445061683633596,Party City Holdco,-1.2350547178889646,Medium Company with Bad DE&I
+-0.4759442236627184,Patrick Industries,-0.6931471805599453,Medium Company with Bad DE&I
+-0.44442791539490667,Patterson,-0.6931471805599453,Medium Company with Bad DE&I
+0.10479545977820705,Paychex,0.6931471805599453,Medium Company with Good DE&I
+-0.5786663727392513,Peabody Energy,-1.1969309895368896,Medium Company with Bad DE&I
+-1.131282541050719,Penn Mutual Life Insurance,-1.4683724721554976,Medium Company with Bad DE&I
+0.5911541292738224,Penn National Gaming,-1.6094379124341005,Medium Company with Bad DE&I
+0.5527711829725537,Penske Automotive Group,-0.993362877949012,Medium Company with Bad DE&I
+-0.615410633997155,People's United Financial,-1.1911610835986,Medium Company with Bad DE&I
+0.22754993508562804,Performance Food Group,-0.6931471805599453,Medium Company with Bad DE&I
+-0.03394741834765958,PerkinElmer,-1.297379265231696,Medium Company with Bad DE&I
+0.053801076554647276,Phillips 66,-1.3862943611198906,Medium Company with Bad DE&I
+-1.4177548992810578,Pioneer Natural Resources,-1.277009488569908,Small Company with Bad DE&I
+-0.16818587569200413,Pitney Bowes,-0.4457598978752709,Medium Company with Bad DE&I
+-0.8017609238598076,Plains GP Holdings,-1.3673744762673798,Medium Company with Bad DE&I
+-0.7106942018508893,PolyOne,-0.3155330006075571,Medium Company with Bad DE&I
+-0.36971548852162556,Popular,0.0,Medium Company with Bad DE&I
+-1.2260194372664184,Portland General Electric,-0.1596304607109665,Small Company with Bad DE&I
+-1.2394834485874864,Presidio,-2.079441541679836,Small Company with Bad DE&I
+-0.3294373928121687,PriceSmart,-0.6931471805599453,Medium Company with Bad DE&I
+-1.358105658476023,Primerica,-0.1755644376307948,Small Company with Bad DE&I
+-0.26924948371371094,Primoris Services,-0.6931471805599453,Medium Company with Bad DE&I
+0.20953723854267162,Principal Financial,0.6931471805599453,Medium Company with Good DE&I
+0.9001569967276591,Progressive,-0.7059646842705598,Medium Company with Bad DE&I
+1.0724349011806658,Prudential Financial (U.S.),-1.426838616435472,Medium Company with Bad DE&I
+-0.6687596690012739,Public Storage,-2.4988752990153964,Medium Company with Bad DE&I
+-1.1781537093064298,Puget Energy,-0.6931471805599453,Small Company with Bad DE&I
+-0.7633206228221047,PulteGroup,-1.0986122886681098,Medium Company with Bad DE&I
+-0.41410118966232656,Qorvo,-1.1494321376647427,Medium Company with Bad DE&I
+0.8065540609279098,Qualcomm,-0.7336914358755267,Medium Company with Bad DE&I
+0.8752052934159189,Quanta Services,0.0,Medium Company with Bad DE&I
+0.9987901530648766,Quest Diagnostics,0.0,Medium Company with Bad DE&I
+0.5015534940572902,Qurate Retail,-0.6931471805599453,Medium Company with Bad DE&I
+0.7934165009055965,R.R. Donnelley & Sons,-1.3862943611198906,Medium Company with Bad DE&I
+0.25605583577014596,Ralph Lauren,0.0,Medium Company with Bad DE&I
+0.03700124119600919,Raymond James Financial,-1.3862943611198906,Medium Company with Bad DE&I
+1.3188875205355801,Raytheon,-0.3888387644115189,Large Company with Bad DE&I
+2.3196357880591796,Raytheon Technologies,-0.1011566919597379,Large Company with Bad DE&I
+-0.23280965998769165,Realogy Holdings,-1.069733329117733,Medium Company with Bad DE&I
+-0.011997447535798074,Red Hat,-1.175221214865486,Medium Company with Bad DE&I
+0.2943379868811525,Regal Beloit,-0.9239029648762964,Medium Company with Bad DE&I
+-0.41410118966232656,Regeneron Pharmaceuticals,-0.5108256237659907,Medium Company with Bad DE&I
+-1.1633996874784287,Reinsurance Group of America,-2.0043811930826827,Medium Company with Bad DE&I
+0.09695575997746331,Reliance Steel & Aluminum,-0.3427382781998593,Medium Company with Bad DE&I
+-2.245741708682394,Renewable Energy Group,0.6931471805599453,Small Company with Good DE&I
+0.7845372629834247,Republic Services,-1.224334099067805,Medium Company with Bad DE&I
+-0.5042953789944534,ResMed,-0.4594311440216605,Medium Company with Bad DE&I
+-0.5665824930590895,Resolute Forest Products,-0.6931471805599453,Medium Company with Bad DE&I
+-0.5199860867017876,Revlon,-2.079441541679836,Medium Company with Bad DE&I
+-0.5665824930590895,Rexnord,-0.9628880172509372,Medium Company with Bad DE&I
+0.13290386258924494,Robert Half International,-1.0986122886681098,Medium Company with Bad DE&I
+0.4245212374823839,Rockwell Automation,-1.0550141512011029,Medium Company with Bad DE&I
+0.07846758005654038,Rollins,-2.38155099967354,Medium Company with Bad DE&I
+0.15568042826650771,Roper Technologies,-0.6931471805599453,Medium Company with Bad DE&I
+1.5428512581722476,Ross Stores,-0.0384290266197819,Large Company with Bad DE&I
+0.8671896373670807,Ryder System,-1.0986122886681098,Medium Company with Bad DE&I
+-0.8864247207099655,Ryerson Holding,-1.3862943611198906,Medium Company with Bad DE&I
+-1.7827343247968674,SBA Communications,0.3040781688102089,Small Company with Good DE&I
+-1.5792755072253974,SLM,-0.782880926980039,Small Company with Bad DE&I
+-0.8017609238598076,SPX FLOW,-1.0986122886681098,Medium Company with Bad DE&I
+-0.3074205948676822,Sabre,0.0,Medium Company with Bad DE&I
+0.1842151225592214,Sanderson Farms,1.0986122886681098,Medium Company with Good DE&I
+0.8384879129077913,Sanmina,-0.8591699643843973,Medium Company with Bad DE&I
+-1.2969052177572131,ScanSource,-1.3862943611198906,Small Company with Bad DE&I
+0.1151308158357031,Schneider National,-0.1630017655892407,Medium Company with Bad DE&I
+-1.1204575521697733,Schnitzer Steel Industries,-1.8979774953000104,Medium Company with Bad DE&I
+-0.26100774114889047,Scientific Games,-1.462157719216256,Medium Company with Bad DE&I
+-0.6033933346550927,Securian Financial Group,-0.6931471805599453,Medium Company with Bad DE&I
+0.9235690366205075,Select Medical Holdings,-2.0356770333223064,Medium Company with Bad DE&I
+-1.3915512902535956,Selective Insurance Group,-0.963067923433084,Small Company with Bad DE&I
+0.023821704769514833,Sempra Energy,0.4054651081081644,Medium Company with Good DE&I
+-0.9386188779955417,Sentry Insurance Group,-0.4941324008243303,Medium Company with Bad DE&I
+0.33036850591966654,Service Corp. International,-1.3862943611198906,Medium Company with Bad DE&I
+-0.09826676511146258,ServiceMaster Global Holdings,-1.127397640099863,Medium Company with Bad DE&I
+-0.21550112168966604,ServiceNow,-0.8106857418904714,Medium Company with Bad DE&I
+-1.032931551560515,Simon Property Group,-0.916290731874155,Medium Company with Bad DE&I
+-0.11177234110347718,Sinclair Broadcast Group,-1.791759469228055,Medium Company with Bad DE&I
+-0.9015663261557404,SiteOne Landscape Supply,-0.916290731874155,Medium Company with Bad DE&I
+-0.3706547789334209,Skechers U.S.A.,-0.6931471805599453,Medium Company with Bad DE&I
+0.008196621179143226,SkyWest,-2.4701905640773147,Medium Company with Bad DE&I
+-0.3294373928121687,Skyworks Solutions,-1.0986122886681098,Medium Company with Bad DE&I
+-0.3030887091434762,Sonic Automotive,0.6931471805599453,Medium Company with Good DE&I
+1.205224869546029,Southwest Airlines,-1.0986122886681098,Large Company with Bad DE&I
+-0.3344529596887491,Southwest Gas Holdings,-0.6931471805599453,Medium Company with Bad DE&I
+-2.1594317621273653,Southwestern Energy,-0.805738987295751,Small Company with Bad DE&I
+0.014040740435136818,SpartanNash,-1.0986122886681098,Medium Company with Bad DE&I
+-0.03394741834765958,Spectrum Brands Holdings,-1.6094379124341005,Medium Company with Bad DE&I
+0.23642917300779967,Spirit AeroSystems Holdings,-0.6931471805599453,Medium Company with Bad DE&I
+-0.33499220332097146,Spirit Airlines,-0.916290731874155,Medium Company with Bad DE&I
+-0.6824961206896905,Splunk,-0.4969453041637648,Medium Company with Bad DE&I
+-2.305068465274273,Sprague Resources,-0.6931471805599453,Small Company with Bad DE&I
+0.6380304321328751,Sprouts Farmers Market,-1.8565010947385363,Medium Company with Bad DE&I
+-1.014920819284718,Square,-1.199422467227118,Medium Company with Bad DE&I
+2.6029355893207655,Starbucks,0.6931471805599453,Large Company with Good DE&I
+1.1632185478436075,State Farm Insurance,-0.5618608848658156,Medium Company with Bad DE&I
+0.8509760423459405,State Street,0.0,Medium Company with Bad DE&I
+-0.05270849283639308,Steelcase,-1.3679044960082996,Medium Company with Bad DE&I
+0.29186928184943106,Stericycle,-1.6641407211495602,Medium Company with Bad DE&I
+0.8692010598335812,Stryker,-0.8570788722423088,Medium Company with Bad DE&I
+-0.6552540930092593,Summit Materials,0.6931471805599453,Medium Company with Good DE&I
+-1.0502597239494638,Super Micro Computer,-0.6931471805599453,Medium Company with Bad DE&I
+0.15763082450508506,Synchrony Financial,-0.946260368496588,Medium Company with Bad DE&I
+0.45872056278633416,Syneos Health,-2.0374991280577843,Medium Company with Bad DE&I
+2.312000140569691,Synnex,-0.7529243845958059,Large Company with Bad DE&I
+0.019611389128199565,Synopsys,-0.7014257983931735,Medium Company with Bad DE&I
+-0.7415564466258497,Synovus Financial,-0.6931471805599453,Medium Company with Bad DE&I
+-0.49054011577288775,T. Rowe Price,-0.6416194008234412,Medium Company with Bad DE&I
+-0.30950822415825296,TD Ameritrade Holding,0.0,Medium Company with Bad DE&I
+-0.5449288228940956,TEGNA,0.0271611080623727,Medium Company with Good DE&I
+2.449899482860075,TJX,-0.4054651081081644,Large Company with Bad DE&I
+0.513714123766629,TTM Technologies,-1.8787013993618635,Medium Company with Bad DE&I
+0.15763082450508506,Tailored Brands,-1.2387075088333888,Medium Company with Bad DE&I
+0.20030790740519694,Tapestry,-0.6931471805599453,Medium Company with Bad DE&I
+-1.3028796903034259,Targa Resources,-0.6931471805599453,Small Company with Bad DE&I
+0.08104310423507838,Tech Data,-0.7777410544088791,Medium Company with Bad DE&I
+-0.11245361529078488,Teledyne Technologies,-1.0221781795842837,Medium Company with Bad DE&I
+0.04824006573908708,Teleflex,0.6931471805599453,Medium Company with Good DE&I
+-0.48673046421422317,Tempur Sealy International,-1.9903643960951105,Medium Company with Bad DE&I
+1.614320978701943,Tenet Healthcare,-1.6392490817943326,Large Company with Bad DE&I
+-0.7399178898594158,Teradyne,-0.6931471805599453,Medium Company with Bad DE&I
+-0.2859909820832645,Terex,-0.4941324008243303,Medium Company with Bad DE&I
+1.015975700336934,Tesla,-0.6931471805599453,Medium Company with Bad DE&I
+0.3122137319357845,Tetra Tech,-1.7293342690094953,Medium Company with Bad DE&I
+0.6317920597973475,Texas Instruments,-0.6263661468695941,Medium Company with Bad DE&I
+0.7619001926377833,Textron,-1.890835277418743,Medium Company with Bad DE&I
+1.3743276293772113,Thermo Fisher Scientific,-0.1476438419125622,Large Company with Bad DE&I
+-1.1516394108688501,Thrivent Financial for Lutherans,-0.6198347628710127,Medium Company with Bad DE&I
+0.03132232811983284,Tiffany,-1.9873262527720303,Medium Company with Bad DE&I
+-0.7858482681174226,Toll Brothers,-1.0857947849574952,Medium Company with Bad DE&I
+-0.30058687419343244,Toro,-0.6931471805599453,Medium Company with Bad DE&I
+0.45872056278633416,Tractor Supply,-0.2399220025530275,Medium Company with Bad DE&I
+0.24083226816585993,TransDigm Group,-0.6931471805599453,Medium Company with Bad DE&I
+-0.4240834653085518,TransUnion,-0.7636825945375284,Medium Company with Bad DE&I
+0.2536393631121947,TravelCenters of America,-0.2917570304938107,Medium Company with Bad DE&I
+0.6591780435612519,Travelers Cos.,0.4054651081081644,Medium Company with Good DE&I
+-0.18293056196161903,TreeHouse Foods,-0.5826551590939769,Medium Company with Bad DE&I
+-1.2394834485874864,TriNet Group,-1.6094379124341005,Small Company with Bad DE&I
+-0.13358486937204345,Trimble,-1.1193948278506385,Medium Company with Bad DE&I
+-0.10668111273672352,Trinity Industries,-0.587786664902119,Medium Company with Bad DE&I
+-0.184718244246862,Triumph Group,-1.5040773967762742,Medium Company with Bad DE&I
+-0.6289054093405668,TrueBlue,-0.999445917173611,Medium Company with Bad DE&I
+1.1815121840386558,Truist Financial,-0.916290731874155,Large Company with Bad DE&I
+1.8815941811597625,Tyson Foods,-1.423855043337774,Large Company with Bad DE&I
+2.6732494170610575,UPS,-0.6931471805599453,Large Company with Bad DE&I
+0.5825903232912437,US Foods Holding,-1.3177745919880834,Medium Company with Bad DE&I
+0.7636431802793373,USAA,-0.337828459392353,Medium Company with Bad DE&I
+0.5503849515061785,Uber Technologies,0.6931471805599453,Medium Company with Good DE&I
+0.6643791158015676,Ulta Beauty,-1.0986122886681098,Medium Company with Bad DE&I
+-0.11861121519781602,Under Armour,-0.4700036292457356,Medium Company with Bad DE&I
+0.3437300402035976,Unisys,-1.5882755611320798,Medium Company with Bad DE&I
+1.5726952185819276,United Airlines Holdings,0.0,Large Company with Bad DE&I
+0.27099634581453225,United Natural Foods,-0.7860851762192145,Medium Company with Bad DE&I
+0.2752145332214929,United Rentals,-0.9382092670665388,Medium Company with Bad DE&I
+2.5526216319366077,UnitedHealth Group,0.6931471805599453,Large Company with Good DE&I
+-0.22102124041888216,Univar Solutions,0.0,Medium Company with Bad DE&I
+0.5825903232912437,Universal,-0.3078522792411639,Medium Company with Bad DE&I
+1.4165889687882889,Universal Health Services,-0.6931471805599453,Large Company with Bad DE&I
+-0.8864247207099655,Univision Communications,0.6924184139168107,Medium Company with Good DE&I
+-0.22102124041888216,Unum Group,-0.2876820724517809,Medium Company with Bad DE&I
+0.17210982624399665,Urban Outfitters,-1.9298678713456845,Medium Company with Bad DE&I
+1.3743276293772113,VF,-0.7611316321018163,Large Company with Bad DE&I
+0.4245212374823839,Vail Resorts,-2.4367662744600653,Medium Company with Bad DE&I
+-0.22712963185941004,Valero Energy,-1.00431251363852,Medium Company with Bad DE&I
+-0.25593998993462785,Valmont Industries,-0.5019071782587439,Medium Company with Bad DE&I
+-0.43419130746113443,Valvoline,-0.7310208329880268,Medium Company with Bad DE&I
+-0.23980688719236598,Varian Medical Systems,-1.615320575592256,Medium Company with Bad DE&I
+-2.6267216180437383,Ventas,-0.2876820724517809,Small Company with Bad DE&I
+-0.3135247370697838,Verisk Analytics,-2.295419481209134,Medium Company with Bad DE&I
+1.8466511604248517,Verizon Communications,-1.273097667101654,Large Company with Bad DE&I
+-1.212241420907056,Vertex Pharmaceuticals,-2.4679469774629665,Small Company with Bad DE&I
+0.5316473981103025,ViacomCBS,-1.6752256529721037,Medium Company with Bad DE&I
+-0.7106942018508893,Viasat,-1.0957470767548352,Medium Company with Bad DE&I
+0.29186928184943106,Visa,-0.6931471805599453,Medium Company with Bad DE&I
+0.40328045394470274,Vishay Intertechnology,-0.6931471805599453,Medium Company with Bad DE&I
+-0.7702446155919959,Vista Outdoor,0.0392207131532813,Medium Company with Good DE&I
+-0.16818587569200413,Visteon,-1.6773488655250264,Medium Company with Bad DE&I
+-0.6552540930092593,Voya Financial,-0.6931471805599453,Medium Company with Bad DE&I
+-0.4766945658756562,W.R. Berkley,-0.7059646842705598,Medium Company with Bad DE&I
+0.020478325080016513,WABCO Holdings,-0.6931471805599453,Medium Company with Bad DE&I
+-0.47498052633858273,WEC Energy Group,-1.6853799160092575,Medium Company with Bad DE&I
+-0.2859909820832645,WESCO International,-0.6931471805599453,Medium Company with Bad DE&I
+-2.5190315220412045,WPX Energy,-0.6648762985929156,Small Company with Bad DE&I
+-0.5429465874626599,Wabash National,-1.260362589513217,Medium Company with Bad DE&I
+2.249956941452858,Walt Disney,-1.3862943611198906,Large Company with Bad DE&I
+-0.7399178898594158,Warner Music Group,-1.7783533406451395,Medium Company with Bad DE&I
+0.9620594500447214,Waste Management,-0.0469169197877517,Medium Company with Bad DE&I
+0.1809102177886533,Wayfair,0.0,Medium Company with Bad DE&I
+2.3726933994539,Wells Fargo,0.0,Large Company with Bad DE&I
+-2.749294681711197,Welltower,0.0,Small Company with Bad DE&I
+-0.05043389917981998,Werner Enterprises,-1.412386398998242,Medium Company with Bad DE&I
+-0.13246609041541285,Western Union,-2.061051676568245,Medium Company with Bad DE&I
+0.5681113215523336,Westinghouse Air Brake,-1.1550599911259851,Medium Company with Bad DE&I
+-0.2919338934717658,Westlake Chemical,-0.7424848138884045,Medium Company with Bad DE&I
+-0.2944943720772578,Weyerhaeuser,-1.3862943611198906,Medium Company with Bad DE&I
+1.3954752408055882,Whirlpool,0.4054651081081644,Large Company with Good DE&I
+-0.8325575621728417,Williams,-1.1122449973757922,Medium Company with Bad DE&I
+-0.9810707932063485,Wolverine World Wide,-1.5162904485839124,Medium Company with Bad DE&I
+-0.3273864628098098,Woodward,-1.3820633245920746,Medium Company with Bad DE&I
+-0.7251732035898009,World Fuel Services,-2.153203025241889,Medium Company with Bad DE&I
+-0.09826676511146258,Worthington Industries,-2.173589241452697,Medium Company with Bad DE&I
+0.40685980443216757,Wyndham Destinations,-0.9917784660040992,Medium Company with Bad DE&I
+0.6433697398553474,Wynn Resorts,-0.4054651081081644,Medium Company with Bad DE&I
+-0.14691968345388068,Xcel Energy,-0.4496913279338573,Medium Company with Bad DE&I
+0.5533666352827172,Xerox Holdings,-0.2658336090229703,Medium Company with Bad DE&I
+-0.8984788393540027,Xilinx,-0.6407824603540828,Medium Company with Bad DE&I
+0.1478311560306028,Xylem,-0.3459745652032975,Medium Company with Bad DE&I
+0.7386068847254179,Yum Brands,-0.2811037570916583,Medium Company with Bad DE&I
+2.8141189853698956,Yum China Holdings,-0.4166903763487191,Large Company with Bad DE&I
+-1.026316071750126,Zayo Group Holdings,-1.4888509494449826,Medium Company with Bad DE&I
+-0.4042413990183652,Zebra Technologies,-0.8578056521483902,Medium Company with Bad DE&I
+-0.7627080343755921,Zillow Group,-0.4619699160976033,Medium Company with Bad DE&I
+0.3081858395132605,Zimmer Biomet Holdings,-0.6931471805599453,Medium Company with Bad DE&I
+-0.22980686482067178,Zions Bancorp.,-1.9465436830289216,Medium Company with Bad DE&I
+-0.19795086574578682,Zoetis,-1.0986122886681098,Medium Company with Bad DE&I

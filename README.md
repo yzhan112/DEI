@@ -6,7 +6,7 @@ Analysis of DE&I (diversity, equity and inclusion) on Fortune companies.
 
 This project is designed to evaluate DE&I on Fortune companies by utilizing NLP and public data. In US, all employers that have at least 100 employees are required EEO reports annually with the EEOC (Equal Employment Opportunity Commission). EEO reports are important documents for EEOC to keep track of the composition of employees for each company in terms of gender, race, age and so on. However, most of the EEO reports do not go public, which makes it hard for company manangements to evaluate their DE&I performance in contrast to other companies. On the other hand, job seekers also have difficulties to review the DE&I performance of candidate companies before applying the job. Here, I make an app to evaluate DE&I performance of 661 fortune companies based on the review comments from major job searching platforms.
 
-## Data Collection, Feature Engineering and Data Analysis
+## Data Collection and Feature Engineering
 
 ### Data Collection
 
@@ -58,25 +58,23 @@ In addition, the number of employees in each company is also considered as a fea
 | X | 0.18 |
 | Y | -0.10 |
 
-6. Combine with employee number, we can use K-Means to do clusters analysis.
+6. Combine with employee number, I get the following dataset. 
 
 | company | ratio | employee number |
-| :---:    |  :---: |	:---: |
+| :---:    |  :---: |   :---: |
 | X | 0.18 | 10000 |
 | Y | -0.10 | 1000 |
 
+7. If ratio is greater than zero, it means that it has more positive comments about DE&I than negative ones. Therefore, I can label companies with good DE&I or bad DE&I based on the value of ratio (This is not really bad DE&I, just for easy understanding). Based on the employee number, I can label companies with small company, medium company or large company.
 
-### Data Analysis
+| company | ratio | employee number | DE&I | company size |
 
-A few examples of useful commands and/or tasks.
+| :---:    |  :---: |   :---: |  :---: |  :---:  |
 
-```
-$ First example
-$ Second example
-$ And keep this in mind
-```
+| X | 0.18 | 10000 | good DE&I | Large Company |
+| Y | -0.10 | 1000 | bad DE&I | Medium Company |
 
-## Deliverable
+## Data Analysis and Deliverable
 
-Based on above, I made an app to fulfill the goal of this project
+Based on above, I made an app to fulfill the goal of this project, which evaluates DE&I performance in terms of company size (number of total employees) 
 
