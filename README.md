@@ -25,11 +25,18 @@ In addition, the number of employees in each company is also considered as a fea
 
 | company | pros | cons | review title | advice to management |
 | :---         |     :---:      |     :---:     |     :---:     |        ---: |
-| git status   | git status     | git status    |git status     | git status    |
-| git status   | git status     | git status    |git status     | git status    |
-| git status   | git status     | git status    |git status     | git status    |
+| X | good diversity | bad diversity |good equity     | None|
+| X | good diversity |               |excellent equity| bad equity      |
+| Y | good inclusion | bad diversity |None            | excellent equity|
+| Y |                | bad inclusion |bad equity      | good equity     |
 
 2. For Pros part and Cons part, I count how many comments are in each part. The count number generated two features, postive score and negative score, each comment is counted as 1.
+| company | positive score | negative score |
+| :---         |     :---:     |        ---: |
+| X | 4 | 4 |
+| X | good diversity | bad diversity|excellent equity| bad equity|
+| Y | good inclusion | bad inclusion|good equity| excellent equity|
+| Y | good inclusion | bad inclusion|bad equity| good equity|
 3. For Review Title and Advice to Management, I use pretrained NLP sentiment analysis tool, vader, to get score for each comment. For each company, I sum up all compound scores for each part. Now I have two new columns, Review Title Score and Advice to Management Score.
 4. If Review Title Score or Advice to Management Score is negative, meaning they contains negative sentiment in terms of DE&I, it will be added up to above negative score. And if postive, they will be added up to above positive score.
 5. Use a customized formular, ratio = log((positive score + 1)/(negative score + 1))
