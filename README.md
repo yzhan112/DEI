@@ -24,7 +24,7 @@ In addition, the number of employees in each company is also considered as a fea
 1. I pre-built a DE&I keywords list and use the list to filter all 4 parts of each review. After this step, I harvested all the information containing these DE&I keywords. 
 
 | company | pros | cons | review title | advice to management |
-| :---         |     :---:      |     :---:     |     :---:     |        ---: |
+| :---:         |     :---      |     :---     |     :---     |        :--- |
 | X | good diversity | bad diversity |some words about DE&I | None|
 | X | good diversity | None          |some words about DE&I | some words about DE&I |
 | Y | good inclusion | bad diversity |None            | some words about DE&I |
@@ -33,35 +33,35 @@ In addition, the number of employees in each company is also considered as a fea
 2. For Pros part and Cons part, I count how many comments are in each part. The count number generated two features, postive score and negative score, each comment is counted as 1.
 
 | company | positive score | negative score |
-| :---         |     :---:     |        ---: |
+| :---:         |     :---:     |        :---: |
 | X | 2 | 1 |
 | Y | 1 | 2 |
 
 3. For Review Title and Advice to Management, I use pretrained NLP sentiment analysis tool, vader, to get score for each comment. For each company, I sum up all compound scores for each part. Now I have two new columns, Review Title Score and Advice to Management Score.
 
 | company | review title score | advice to management score |
-| :---         |     :---:     |        ---: |
+| :---:        |     :---:     |        :---: |
 | X | 1.2 | -0.8 |
 | Y | -1.0 | 1.2 |
 
 4. If Total Review Title Score or total Advice to Management Score is negative, meaning they contains negative sentiment in terms of DE&I in general, it will be added up to above negative score. And if postive, they will be added up to above positive score.
 
 | company | positive score | negative score |
-| :---         |     :---:     |        ---: |
+| :---:         |     :---:     |        :---: |
 | X | 3.2 | 1.8 |
 | Y | 2.2 | 3 |
 
 5. Use a customized formular, ratio = log((positive score + 1)/(negative score + 1))
 
 | company | ratio |
-| :---    |  ---: |
+| :---:    |  :---: |
 | X | 0.18 |
 | Y | -0.10 |
 
 6. Combine with employee number, we can use K-Means to do clusters analysis.
 
 | company | ratio | employee number |
-| :---    |  :---: |	---: |
+| :---:    |  :---: |	:---: |
 
 | X | 0.18 | 10000 |
 | Y | -0.10 | 1000 |
