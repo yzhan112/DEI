@@ -68,13 +68,13 @@ In addition, the number of employees in each company is also considered as a fea
 7. If ratio is greater than zero, it means that it has more positive comments about DE&I than negative ones. Therefore, I can label companies with good DE&I or bad DE&I based on the value of ratio (This is not really bad DE&I, just for easy understanding). Based on the employee number, I can label companies with small company, medium company or large company.
 
 | company | ratio | employee number | DE&I | company size |
-
 | :---:    |  :---: |   :---: |  :---: |  :---:  |
-
 | X | 0.18 | 10000 | good DE&I | Large Company |
 | Y | -0.10 | 1000 | bad DE&I | Medium Company |
 
 ## Data Analysis and Deliverable
 
 Based on above, I made an app to fulfill the goal of this project, which evaluates DE&I performance in terms of company size (number of total employees) 
+
+https://deianalysis.herokuapp.com/ 
 
