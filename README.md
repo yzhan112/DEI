@@ -38,8 +38,25 @@ In addition, the number of employees in each company is also considered as a fea
 | Y | 1 | 2 |
 
 3. For Review Title and Advice to Management, I use pretrained NLP sentiment analysis tool, vader, to get score for each comment. For each company, I sum up all compound scores for each part. Now I have two new columns, Review Title Score and Advice to Management Score.
+
+| company | review title score | advice to management score |
+| :---         |     :---:     |        ---: |
+| X | 1.2 | -0.8 |
+| Y | -1.0 | 1.2 |
+
 4. If Review Title Score or Advice to Management Score is negative, meaning they contains negative sentiment in terms of DE&I, it will be added up to above negative score. And if postive, they will be added up to above positive score.
+
+| company | positive score | negative score |
+| :---         |     :---:     |        ---: |
+| X | 3.2 | 1.8 |
+| Y | 2.2 | 3 |
+
 5. Use a customized formular, ratio = log((positive score + 1)/(negative score + 1))
+
+| company | ratio |
+| :---    |  ---: |
+| X | 0.18 |
+| Y | -0.10 |
 
 
 ### Data Analysis
