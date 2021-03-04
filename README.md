@@ -44,7 +44,7 @@ In addition, the number of employees in each company is also considered as a fea
 | X | 1.2 | -0.8 |
 | Y | -1.0 | 1.2 |
 
-4. If Review Title Score or Advice to Management Score is negative, meaning they contains negative sentiment in terms of DE&I, it will be added up to above negative score. And if postive, they will be added up to above positive score.
+4. If Total Review Title Score or total Advice to Management Score is negative, meaning they contains negative sentiment in terms of DE&I in general, it will be added up to above negative score. And if postive, they will be added up to above positive score.
 
 | company | positive score | negative score |
 | :---         |     :---:     |        ---: |
@@ -58,6 +58,8 @@ In addition, the number of employees in each company is also considered as a fea
 | X | 0.18 |
 | Y | -0.10 |
 
+6. Combine with employee number, we can use K-Means to do clusters analysis.
+
 
 ### Data Analysis
 
@@ -69,26 +71,7 @@ $ Second example
 $ And keep this in mind
 ```
 
-## Deployment
+## Deliverable
 
-Additional notes on how to deploy this on a live or release system. Explaining the most important branches, what pipelines they trigger and how to update the database (if anything special).
+Based on above, I made an app to fulfill the goal of this project
 
-### Server
-
-* Live:
-* Release:
-* Development:
-
-### Branches
-
-* Master:
-* Feature:
-* Bugfix:
-* etc...
-
-## Additional Documentation and Acknowledgments
-
-* Project folder on server:
-* Confluence link:
-* Asana board:
-* etc...
