@@ -128,7 +128,7 @@ Based on above, I made an interactive plot to fulfill the goal of this project, 
             y = 'pos/neg log ratio',
             color = alt.condition(brush, 'desc:N', alt.value('lightgray')),
             #color = alt.Color('desc',scale=alt.Scale(scheme= 'dark2')),
-            tooltip = ['company', 'pos/neg log ratio']).configure_axis(grid=False).properties(width = 700, height = 500).add_selection(brush)
+            tooltip = ['company', 'pos/neg log ratio']).configure_axis(grid=False).properties(width = 750, height = 500).add_selection(brush)
     chart = chart.configure()\
                  .configure_title(fontSize = 16)\
                  .configure_axis(titleFontSize = 14, labelFontSize = 12)\
