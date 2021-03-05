@@ -53,7 +53,7 @@ This project is designed to evaluate DE&I on Fortune companies by utilizing NLP 
 
 ### Data Collection
 
-Data were collected by web sraping. The aim were to scrape 1000 reviews for each one of the fortune 1000 companies. Due to the time limitation, I only got reviews on 781 out of 1000 fortune companies. Each review contains 4 parts:
+Data were collected by web sraping. The aim were to scrape 1000 reviews for each one of the fortune 1000 companies. Due to the time limitation, I only got reviews on 661 out of 1000 fortune companies. Each review contains 4 parts:
 
 * Review Title
 * Pros
