@@ -38,7 +38,7 @@ def app():
     # Generate plot
 
     st.title("Fortune Companies DE&I Analysis")
-    st.write(f'Yongliang Zhang')
+    st.write(f'Yongliang Eric Zhang')
     
     st.markdown(""" 
 
